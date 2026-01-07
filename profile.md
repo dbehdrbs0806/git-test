@@ -5,7 +5,7 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbehdrbs0806)](https://solved.ac/dbehdrbs0806/)
 
-## 기술 스택
+## Stack
 - **언어 및 프레임워크**: Java, Python, Spring Boot, Spring Cloud, Android Development
 - **클라우드 및 DevOps**: AWS, Docker, Kubernetes, CI/CD(Jenkins)
 - **기타**: Oracle, MongoDB, MariaDB
